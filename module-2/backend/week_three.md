@@ -40,6 +40,7 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
   <%= f.text :name %>
   <%= f.label :breed %>
   <%= f.text :breed %>
+  <%= f.submit %>
   <% end %>
 12. Why do we want to validate our models?
   to make sure we have the expected information for each table
