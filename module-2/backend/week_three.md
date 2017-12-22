@@ -17,7 +17,6 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
   from the model
 4. How would I create a route if I wanted to see a specific horse in my routes fitle assuming I'm sticking to standard
  conventions and that I didn't want other CRUD functionality?
-
 5. What rake task is useful when looking at routes, and what information does it give you?
   rake routes is helpful as it gives you the CRUD functionality table along with the route helpers
 6. What is an example of a route helper? When would you use them?
