@@ -8,7 +8,6 @@ Try to answer them with limited amount of external research. These questions cov
 Note: When you're done, submit a PR with a reflection in the comments about how this exercise went for you.
 
 ### Questions
-
 * What is a cookie?
   A cookie is a small piece of data that is stored on the client side and has information about each request the user makes
 * What’s the difference between a session and a cookie?
